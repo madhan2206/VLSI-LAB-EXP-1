@@ -222,6 +222,5 @@ OUTPUT:
 <img width="631" alt="324429019-0827ac48-940f-4c8f-982d-75be689e746a" src="https://github.com/madhan2206/VLSI-LAB-EXP-1/assets/170016170/8c23962c-0b31-46fd-a65e-cea78a4f67fe">
 
 
-
-RESULT:
+RESULT:Thus the simulation and synthesis Logic Gates,Adders and Subtractor using VIVADO 2023.2 has been verified.
 
